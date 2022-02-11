@@ -8,8 +8,8 @@ The repository includes three file .ino for three version of the project
 
 ### First version 
 It prints on the display the humidity percentage and cartesian graph
-### Seconda versione
+### Second version
 It prints on the display the humidity percentage and cartesian graph and also an istogram, and maximum and minimum value recorder
-### Terza versione
+### Third version
 It's similar to the other version but the graph it's a candlestick graph, so the graph looks continuos
   

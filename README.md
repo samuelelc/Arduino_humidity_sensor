@@ -1,15 +1,15 @@
-# Monitoraggio umidità - Arduino
+# DHT11 humidity sensor
 
-Per la realizzazione del progetto ho utiizzato il sensore ``DHT-11`` e un ``display OLED 128x64 pixel i2c`` per riportare i dati campionati
+For this project I used ``DHT-11 Sensor`` and a ``display OLED 128x64 pixel i2c``
 
-La repository presenta 3 file .ino corrispondenti a tre diverse versioni del progetto
+The repository includes three file .ino for three version of the project 
 
 <br>
 
-### Prima versione 
-riporta semplicemente il valore dell'umidità scansionata (in %) e un grafico cartesiano
+### First version 
+It print on the display the humidity percentage and cartesian graph
 ### Seconda versione
-oltre al valore dell'umidità in percentuale e al grafico cartesiano, riporta un istogramma e i valori del massimo e del minimo valore registrato 
+It print on the display the humidity percentage and cartesian graph and also an istogram, and maximum and minimum value recorder
 ### Terza versione
-riporta le stesse informazioni della seconda versione con una differenza nel grafico che è tecnicamente un grafico candlestick, in modo da riportare graficamente la caratteristica di continuità del grafico
+It's similar to the other version but the graph it's a candlestick graph, so the graph look continuos
   

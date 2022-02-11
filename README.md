@@ -1,6 +1,6 @@
 # DHT11 humidity sensor
 
-For this project I used ``DHT-11 Sensor`` and a ``display OLED 128x64 pixel i2c``
+For this arduino project I used ``DHT-11 Sensor`` and a ``display OLED 128x64 pixel i2c``
 
 The repository includes three file .ino for three version of the project 
 
